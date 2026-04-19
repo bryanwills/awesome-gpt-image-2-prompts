@@ -892,37 +892,6 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。
 ```
 
-<!-- Case NEW3: Photoreal Open School Textbooks (by @XiaohuiAI666) -->
-### Case NEW3: [Photoreal Open School Textbooks](https://x.com/XiaohuiAI666/status/2045437424491430018) (by [@XiaohuiAI666](https://x.com/XiaohuiAI666))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGLY_sLaEAADOS-.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-“书桌上摆着两本摊开的书，一本书是小学语文课本，一本是小学数学课本，课本内容清晰，写实风格。”
-
-生成的结果很不错，两本书的内容几乎不存在错误，如果一定要吹毛求疵的话，数学课本的内容节奏似乎有些快。
-
-大家有使用上GPT-image-2模型吗？欢迎在留言区分享你的生成结果。
-```
-
-<!-- Case NEW4: Catalog Outfit Street Style Shot (by @VORTEX_Promos) -->
-### Case NEW4: [Catalog Outfit Street Style Shot](https://x.com/VORTEX_Promos/status/2045454361606693212) (by [@VORTEX_Promos](https://x.com/VORTEX_Promos))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGLpuyzbkAAx2CC.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-“street style shot of a woman in this outfit.”
-By the way, if you want to check whether it’s been rolled out to you, just try asking for an image in 16:9 or 21:9.  https://t.co/2lfzhhWB03
-```
-
 <!-- Case NEW5: Spring Guangzhou City Poster (by @alanlovelq) -->
 ### Case NEW5: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
 
@@ -1017,23 +986,6 @@ By the way, if you want to check whether it’s been rolled out to you, just try
 ①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
 ```
 
-<!-- Case NEW10: Luxury Editorial Bookshelf (by @SRKDAN) -->
-### Case NEW10: [Luxury Editorial Bookshelf](https://x.com/SRKDAN/status/2045683829700964821) (by [@SRKDAN](https://x.com/SRKDAN))
-
-| Output |
-| :----: |
-| Output preview unavailable |
-
-**Prompt:**
-
-```
-Luxury Editorial Bookshelf | GPT Image-2 Prompt #73
-
-A 2x2 grid of four campaign-style shelf scenes, each a completely different brand world.
-
-Full prompt + variables in 🧵
-```
-
 <!-- Case NEW11: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512) -->
 ### Case NEW11: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045743158860878312) (by [@MANISH1027512](https://x.com/MANISH1027512))
 
@@ -1082,7 +1034,6 @@ Full prompt + variables in 🧵
 ---
 注：提示词经ChatGPT优化
 ```
-
 
 ## Acknowledge
 
