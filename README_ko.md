@@ -505,8 +505,8 @@ Aspect ratio: 4:5 or 1:1
 High-detail, ultra-realistic hybrid of editorial photography and print design.
 ```
 
-<!-- Case 20: Create image of Magazine feature article [travel] guide page, cute, informati... (by @andis13) -->
-### Case 20: [여행 잡지 특집 기사] guide page, cute, informati...](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+<!-- Case 20: Magazine Travel Guide Feature Article (by @andis13) -->
+### Case 20: [여행 잡지 특집 기사](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
 
 | Output |
 | :----: |
@@ -1280,29 +1280,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 ```
 360 equirectangular image of Istiklal Street, Istanbul in 1900
 ```
-
-<!-- Case 55: Ultra-Dense Information Design (by @EchoraContinuum) -->
-### Case 55: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133) (by [@EchoraContinuum](https://x.com/EchoraContinuum))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case52/output.jpg" width="300" alt="Output image"></a> |
-
-**프롬프트:**
-
-```
 Generate somthing super complex and info dense...
-```
-
-<!-- Case 56: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp) -->
-### Case 56: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330) (by [@RainHuangapp](https://x.com/RainHuangapp))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case53/output.jpg" width="300" alt="Output image"></a> |
-
-**프롬프트:**
-
 ```
 用可爱的风格讲述中国远征军的历史故事
 用波普风格讲述金刚经
